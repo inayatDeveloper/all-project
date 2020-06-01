@@ -1,0 +1,4 @@
+build/
+public/
+lambda/
+node_modules/
