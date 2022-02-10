@@ -30,7 +30,7 @@
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
     "netlify-lambda": "^1.6.3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "open-graph-scraper": "^3.6.2",
     "popper.js": "^1.16.0",
     "postcss-cli": "^7.1.0",
